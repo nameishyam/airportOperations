@@ -70,3 +70,6 @@ The CheckInSystem.java module manages the check-in process. Passengers can input
 Run AirportMain.java to start the Airport Operations Management System.
 Choose from the menu options to perform different airport operations.
 Follow the prompts to input necessary information for ticket booking, security checks, and check-in.
+
+
+**this is just a prototype only, im open to any changes in the project so that i can understand more about the concepts of the java**
