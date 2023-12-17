@@ -35,6 +35,8 @@ Flight details, including departure and arrival times, are randomly generated fo
 The SecurityCheck.java module serves as a placeholder for the security check process. It can be extended to include actual security measures based on the airport's requirements.
 **Check-in Process:**
 The CheckInSystem.java module manages the check-in process. Passengers can input their details, and the system verifies the information against available flight data.
+
+
 **Usage:**
 
 Run AirportMain.java to start the Airport Operations Management System.
